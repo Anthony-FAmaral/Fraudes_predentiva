@@ -4,7 +4,7 @@ Este projeto utiliza um conjunto de dados **simulado** de transações financeir
 
 ---
 
-## 🧪 ETL (Extração, Transformação e Carga)
+## 🧪 ETL
 
 - Tratamento de dados faltantes.
 - Conversão de tipos de dados.
@@ -14,7 +14,7 @@ Este projeto utiliza um conjunto de dados **simulado** de transações financeir
 
 ---
 
-## 📊 Visualização de Dados
+## 📊 Insights 
 
 As variáveis com maior influência na predição de fraude foram identificadas por meio de gráficos de **barras** e **boxplot**:
 
