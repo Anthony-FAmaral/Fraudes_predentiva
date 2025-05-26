@@ -56,3 +56,8 @@ As variáveis com maior influência na predição de fraude foram identificadas 
 - Dataset disponível em:  
   [🔗 Kaggle - PaySim Fraud Detection Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1/data)  
   *Simulação baseada em transações reais de Mobile Money, com foco em detecção de fraudes.*
+
+  
+
+![phishing-1170x570](https://github.com/user-attachments/assets/117f4da5-d977-4ee9-9ce9-5079fc5b16d3)
+
